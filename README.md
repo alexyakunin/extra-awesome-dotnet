@@ -224,9 +224,9 @@ Cloud Native application framework for .NET</tr>
 <tr><td colspan = '8'>&nbsp;&nbsp;&nbsp;&nbsp;
 DotNetty project – a port of netty, event-driven asynchronous network application framework</tr>
 <tr>
-<td><a href = 'https://github.com/servicetitan/ActualLab.Fusion'>ActualLab.Fusion</a></td><td><a href = 'https://github.com/servicetitan'>servicetitan</a></td><td>1782 ⭐</td><td>107 🍴</td><td>5 🔨</td><td>MIT License</td></tr>
+<td><a href = 'https://github.com/ActualLab/Fusion'>ActualLab.Fusion</a></td><td><a href = 'https://github.com/ActualLab'>ActualLab</a></td><td>1782 ⭐</td><td>107 🍴</td><td>5 🔨</td><td>MIT License</td></tr>
 <tr><td colspan = '8'>&nbsp;&nbsp;&nbsp;&nbsp;
-Build real-time apps (Blazor included) with less than 1% of extra code responsible for real-time updates. Host 10-1000x faster APIs relying on transparent and nearly 100% consistent caching. We call it DREAM, or Distributed REActive Memoization, and it's here to turn real-time on!</tr>
+Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching.</tr>
 <tr>
 <td><a href = 'https://github.com/dotnetcore/AspectCore-Framework'>AspectCore-Framework</a></td><td><a href = 'https://github.com/dotnetcore'>dotnetcore</a></td><td>1653 ⭐</td><td>318 🍴</td><td>28 🔨</td><td>MIT License</td></tr>
 <tr><td colspan = '8'>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -260,13 +260,9 @@ This is a frameworks with reactive, event sourcing and Actor pattern as basic th
 <tr><td colspan = '8'>&nbsp;&nbsp;&nbsp;&nbsp;
 Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications.</tr>
 <tr>
-<td><a href = 'https://github.com/servicetitan/ActualLab.Fusion.Samples'>ActualLab.Fusion.Samples</a></td><td><a href = 'https://github.com/servicetitan'>servicetitan</a></td><td>158 ⭐</td><td>33 🍴</td><td>2 🔨</td><td>MIT License</td></tr>
+<td><a href = 'https://github.com/ActualLab/Fusion.Samples'>ActualLab.Fusion.Samples</a></td><td><a href = 'https://github.com/ActualLab'>ActualLab</a></td><td>158 ⭐</td><td>33 🍴</td><td>2 🔨</td><td>MIT License</td></tr>
 <tr><td colspan = '8'>&nbsp;&nbsp;&nbsp;&nbsp;
-A collection of samples for Fusion library: https://github.com/servicetitan/ActualLab.Fusion</tr>
-<tr>
-<td><a href = 'https://github.com/alexyakunin/BoardGames'>BoardGames</a></td><td><a href = 'https://github.com/alexyakunin'>alexyakunin</a></td><td>69 ⭐</td><td>8 🍴</td><td>2 🔨</td><td>MIT License</td></tr>
-<tr><td colspan = '8'>&nbsp;&nbsp;&nbsp;&nbsp;
-New ActualLab.Fusion sample and a fully functional web app allowing you to play real-time multiplayer board games. Powered by ActualLab.Fusion, Blazor, and .NET 5.</tr>
+A collection of samples for Fusion library: https://github.com/ActualLab/Fusion</tr>
 <tr>
 <td><a href = 'https://github.com/sang-hyeon/Plastic'>Plastic</a></td><td><a href = 'https://github.com/sang-hyeon'>sang-hyeon</a></td><td>54 ⭐</td><td>3 🍴</td><td>0 🔨</td><td>MIT License</td></tr>
 <tr><td colspan = '8'>&nbsp;&nbsp;&nbsp;&nbsp;
